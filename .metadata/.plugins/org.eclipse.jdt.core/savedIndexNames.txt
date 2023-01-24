@@ -35,7 +35,6 @@ INDEX VERSION 1.131+C:\SEB\3\Mockito2_5\.metadata\.plugins\org.eclipse.jdt.core
 917915794.index
 2285815866.index
 4021006239.index
-3841185164.index
 133189820.index
 1722232248.index
 490000382.index
